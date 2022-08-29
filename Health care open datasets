@@ -1,0 +1,93 @@
+Brain:
+
+https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
+https://www.kaggle.com/datasets/andrewmvd/brain-tumor-segmentation-in-mri-brats-2015
+https://www.kaggle.com/datasets/preetviradiya/brian-tumor-dataset
+https://www.kaggle.com/datasets/utshabkumarghosh/brats-custom-dataset
+https://www.kaggle.com/datasets/andrewmvd/hippocampus-segmentation-in-mri-images
+https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
+https://www.kaggle.com/datasets/jjprotube/brain-mri-images-for-brain-tumor-detection
+https://www.kaggle.com/datasets/darren2020/ct-to-mri-cgan
+https://www.kaggle.com/datasets/carlolepelaars/rsna-clean-dataframes-stage-2
+https://www.kaggle.com/datasets/denizkavi1/brain-tumor
+
+Chest:
+https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images
+https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+https://www.kaggle.com/datasets/nikhilpandey360/chest-xray-masks-and-labels
+https://www.kaggle.com/datasets/kmader/pulmonary-chest-xray-abnormalities
+https://www.kaggle.com/datasets/artyomkolas/3-kinds-of-pneumonia
+https://www.kaggle.com/datasets/nickuzmenkov/nih-chest-xrays-tfrecords
+https://www.kaggle.com/datasets/azkihimmawan/chest-xray-masks-and-defect-detection
+https://www.kaggle.com/datasets/metformin/chestctdataset
+
+https://www.kaggle.com/datasets/adarshsng/heart-mri-image-dataset-left-atrial-segmentation
+
+
+Covid ID - Image Dataset
+https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset
+https://www.kaggle.com/datasets/hgunraj/covidxct
+https://www.kaggle.com/datasets/andyczhao/covidx-cxr2
+https://www.kaggle.com/datasets/maedemaftouni/large-covid19-ct-slice-dataset
+https://www.kaggle.com/datasets/azaemon/preprocessed-ct-scans-for-covid19
+https://www.kaggle.com/datasets/sid321axn/covid-cxr-image-dataset-research
+https://www.kaggle.com/datasets/maedemaftouni/covid19-ct-scan-lesion-segmentation-dataset
+https://www.kaggle.com/datasets/tarandeep97/covid19-normal-posteroanteriorpa-xrays
+https://www.kaggle.com/datasets/francismon/curated-covid19-chest-xray-dataset
+https://www.kaggle.com/datasets/ahemateja19bec1025/covid-xray-dataset
+https://www.kaggle.com/datasets/bryanb/vinbigdata-chestxray-metadata
+https://www.kaggle.com/datasets/vinay619/covid19-xray-dataset
+https://www.kaggle.com/datasets/sureshdudi/siimfisabiorsna-covid19-detection-dataset
+
+Lung
+https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images
+https://www.kaggle.com/datasets/yoctoman/shcxr-lung-mask
+https://www.kaggle.com/datasets/gfugante/preprocessed-scans-osic-pfp
+
+Liver
+https://www.kaggle.com/datasets/andrewmvd/liver-tumor-segmentation-part-2
+
+
+Skin
+https://www.kaggle.com/datasets/surajghuwalewala/ham1000-segmentation-and-classification
+https://www.kaggle.com/datasets/sshikamaru/lyme-disease-rashes
+https://www.kaggle.com/datasets/shubhambaid/skin-burn-dataset
+https://www.kaggle.com/datasets/tirth27/melanoma-classification-kerasonnx-model-weight
+
+Eye
+https://www.kaggle.com/datasets/andrewmvd/retinal-disease-classification
+https://www.kaggle.com/datasets/kayvanshah/eye-dataset
+
+Breast Cancer
+https://www.kaggle.com/datasets/andrewmvd/breast-cancer-cell-segmentation
+https://www.kaggle.com/datasets/asmaasaad/mammogram-dataset-kaumds
+https://www.kaggle.com/datasets/nagireddyseelam/mias-mammography
+
+
+Medical MNIST
+
+https://www.kaggle.com/datasets/andrewmvd/medical-mnist
+
+Monai
+https://www.kaggle.com/datasets/mikecho/monai-v060-deep-learning-in-healthcare-imaging
+
+Bone
+https://www.kaggle.com/datasets/hmchuong/xray-bone-shadow-supression
+
+Negative Images
+https://www.kaggle.com/datasets/muhammadkhalid/negative-images
+
+Others
+
+CVC clinical DB: https://www.kaggle.com/datasets/balraj98/cvcclinicdb
+Pre trained weights: https://www.kaggle.com/datasets/antoreepjana/tf-keras-pretrained-model-weights
+https://www.kaggle.com/datasets/khivnguyn/mayo-competition-dataset
+https://www.kaggle.com/datasets/saife245/tuberculosis-image-datasets
+Colon cancer: https://www.kaggle.com/datasets/francismon/curated-colon-dataset-for-deep-learning
+Oximeter: https://www.kaggle.com/datasets/dataclusterlabs/oximeter-image-dataset
+
+https://www.kaggle.com/datasets/bhallaakshit/vinbig-tfrecords-for-object-detection 
+https://www.kaggle.com/datasets/nickuzmenkov/ranzcr-clip-kfold-tfrecords
+https://www.kaggle.com/datasets/hugovallejo/numpy-for-rsna-compet-flair
+https://www.kaggle.com/datasets/navjotbansal/vinbig-xray-compressed-images-for-yolo-training
+https://www.kaggle.com/datasets/vincenttu/siimcov19
